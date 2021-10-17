@@ -1,4 +1,4 @@
-<img src="bg.svg" width="100%"  style="position:absolute; min-height:900px" alt="lorezz's Dev Card"/>
+<img src="bg.svg" width="100%"  alt="lorezz's Dev Card"/>
 
 ### Hi there, I'm Lorenzo - aka ⚡ [Lorezz]("https://lorezz.me") ⚡
 
