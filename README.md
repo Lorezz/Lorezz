@@ -1,3 +1,5 @@
+<img src="bg.svg" width="100%"  style="position:absolute; min-height:900px" alt="lorezz's Dev Card"/>
+
 ### Hi there, I'm Lorenzo - aka ⚡ [Lorezz]("https://lorezz.me") ⚡
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21&multiline=true&width=500&height=90&lines=Welcome+to+my+Github+Profile...;Also+check+my+website%3A++lorezz.me;Thank+You.)](https://lorezz.me)
